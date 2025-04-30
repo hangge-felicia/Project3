@@ -6,7 +6,7 @@ This project explores Yelp reviews for steakhouses located in New Jersey to bett
 What are the most common factors that lead to positive, neutral, or negative sentiment in steakhouse reviews in New Jersey?
 
 ## Repository Contents
-- 'Project_#3.ipynb' - Jupyter notebook used for data collection, cleaning, analysis and visualizations.
+- 'Project #3.ipynb' - Jupyter notebook used for data collection, cleaning, analysis and visualizations.
 
 ## Conclusion
 This analysis of Yelp reviews for steakhouses in New Jersey showed that overall sentiment tends to be positive, especially when it comes to the quality of the food. Both the TextBlob and NaiveBayes analyzers showed that most reviewers were satisfied, although a few had some issues or remained neutral. The WordCloud showed us what is influencing people to write reviews the most, with words like “food" "steak", and "seafood" appearing frequently meaning most reviews are about the quality of their meals. Other words like like “friendly”, "service", and "staff" appear a lot as well, telling us that customer reviews are also influenced by the service provided to them. In conclusion, we can assume that most customers write reviews about the quality of their meals and the quality of the service they were given.
