@@ -1,6 +1,6 @@
 # Project #3: Sentiment Analysis of Yelp Reviews for Steakhouses in New Jersey
 
-This project explores Yelp reviews for steakhouses located in New Jersey to better understand what customers are saying and how they feel about their dining experiences at steakhouses. By using the Yelp Fusion API, I collected over 60 real customer reviews, cleaned the data, and performed sentiment analysis using two tools: `TextBlob` and `NaiveBayesAnalyzer`. I also created a WordCloud to highlight the most commonly used terms.
+This project explores Yelp reviews for steakhouses located in New Jersey to better understand what customers are saying and how they feel about their dining experiences. By using the Yelp Fusion API, I collected over 60 real customer reviews, cleaned the data, and performed sentiment analysis using `TextBlob` and `NaiveBayesAnalyzer`. I also created a WordCloud to highlight the most commonly used terms.
 
 ## Research Question
 What are the most common factors that lead to positive, neutral, or negative sentiment in steakhouse reviews in New Jersey?
