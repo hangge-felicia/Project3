@@ -5,7 +5,7 @@ This project explores Yelp reviews for steakhouses located in New Jersey to bett
 ## Research Question
 What are the most common factors that lead to positive, neutral, or negative sentiment in steakhouse reviews in New Jersey?
 
-## Repository Contents: 
+## Repository Contents
 - 'Project_#3.ipynb' - Jupyter notebook used for data collection, cleaning, analysis and visualizations.
 
 ## Conclusion
